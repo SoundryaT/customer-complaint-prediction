@@ -1,0 +1,16 @@
+# Customer Complaint Resolution Prediction
+
+## Overview
+This project predicts whether a complaint will be resolved within SLA.
+
+## Algorithms Used
+- Logistic Regression
+- Random Forest
+
+## Features
+- Issue Type
+- Priority
+- Resolution Time
+
+## Target
+Resolved Within SLA (Yes/No)
